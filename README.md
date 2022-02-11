@@ -1,4 +1,4 @@
-##FreeSploit
+FreeSploit
 ============
 - Best open-source executor
 - Fast injection/execution using WeAreDevs api
