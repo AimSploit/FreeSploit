@@ -8,3 +8,10 @@ FreeSploit
 >You can check out the full license [here](https://github.com/AimSploit/FreeSploit/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
+
+### Working Versions
+
+| Version | Working            |
+| ------- | ------------------ |
+| 1.1     | :white_check_mark: |
+| 1.0     | :white_check_mark: |
