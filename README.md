@@ -14,5 +14,5 @@ This project is licensed under the terms of the **MIT** license.
 
 | Version | Working            |
 | ------- | ------------------ |
-| 1.1     | :white_check_mark: |
-| 1.0     | :white_check_mark: |
+| 1.1     | :x: |
+| 1.0     | :x: |
