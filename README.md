@@ -1,6 +1,6 @@
 FreeSploit
 ============
-## ⚠️This executor want updated for long time wait for us to update
+## ⚠️This executor wasnt updated for long time wait for us to update
 - Best open-source executor
 - Fast injection/execution using WeAreDevs api
 - Made by [Aimforum.ml](https://aimforum.ml) very trusted website
