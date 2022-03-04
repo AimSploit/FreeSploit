@@ -1,7 +1,7 @@
 FreeSploit
 ============
 STATUS: <span style="color:red;">DETECTED</span>
-## ⚠️This executor wasnt updated for long time wait for us to update
+## Some shit maybe missing if you want it TAKE#1810
 - Best open-source executor
 - Fast injection/execution using WeAreDevs api
 - Made by [Aimforum.ml](https://aimforum.ml) very trusted website
@@ -15,5 +15,6 @@ This project is licensed under the terms of the **MIT** license.
 
 | Version | Working            |
 | ------- | ------------------ |
+| 1.2     | ✔️ |
 | 1.1     | :warning: |
 | 1.0     | :x: |
