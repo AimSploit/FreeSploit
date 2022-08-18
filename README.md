@@ -1,6 +1,6 @@
 FreeSploit
 ============
-STATUS: <span style="color:red;">DETECTED</span>
+STATUS: <span style="color:red">DETECTED</span>
 ## Some shit maybe missing if you want it TAKE#1810
 - Best open-source executor
 - Fast injection/execution using WeAreDevs api
